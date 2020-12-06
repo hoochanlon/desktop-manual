@@ -34,40 +34,42 @@ module.exports = {
         indexName: 'hoochanlon_helpdesk'
       },
         sidebar: [
+          // 我的计划是从边缘桌面走向内部业务IT维护
+          {
+            title: '软硬件基础维护',   // 必要的
+            collapsable: false, // 可选的, 默认值是 true,
+            sidebarDepth: 1,    // 可选的, 默认值是 1
+            children: [
+              ['/express/hard-bearkdown/hard','硬件设备调试处理'],
+              ['/express/sysdm-reset/cz.md','系统及主机装载'],
+              ['/express/software-issue/other','各类软件异常解决'],
+              ['/express/star/centre','程序采集与资产管理'],
+
+            ]
+          },            
             {
                 title: 'OA业务综合运营',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/oa-fault/oa','B/S端OA业务初级维护'],
-                  ['/net-debug/net','OA办公网络接入层运营'],
-                  ['/script/bat.md','Batch批量可并发业务编程'],
-                  ['/secure/trojan','信息安全病毒高级防控']
+                  ['/express/oa-fault/oa','B/S端OA业务初级维护'],
+                  ['/express/net-debug/net','OA办公网络接入层运营'],
+                  ['/express/script/bat.md','Batch批量可并发业务编程'],
+                  ['/express/secure/trojan','信息安全病毒高级防控']
                 ]
               },
               {
-                title: '软硬件基础维护',   // 必要的
+                title: '职场·生活社会学',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/hard-bearkdown/hard','硬件设备调试处理'],
-                  ['/sysdm-reset/cz.md','系统及主机装载'],
-                  ['/software-issue/other','各类软件异常解决'],
-                  ['/star/centre','程序采集与资产管理'],
-
-                ]
-              },            
-              {
-                title: '职场社会工程学',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['notice/found','低学历往届生求职历程'],
-                  ['notice/interview','人力资源与面试者'],
-                  ['notice/ti-analysis','培训机构分析报告'],
-                  ['notice/law-sug','解构非规范型服务企业'],
-                  ['/talk/3','客户、外包、驻场'],
-                  ['notice/zufang-note','社会租房记录']
+                  ['/express/notice/found','低学历往届生求职历程'],
+                  ['/express/notice/interview','人力资源与面试者'],
+                  ['/express/notice/ti-analysis','培训机构分析报告'],
+                  ['/express/notice/law-sug','解构非规范型服务企业'],
+                  ['/express/talk/3','客户、外包、驻场'],
+                  ['/express/notice/zufang-note','社会租房记录'],
+                  ['/express/notice/zufang-note','城中村黑宽带']
                 ]
               },
               {
@@ -75,11 +77,11 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/mean/format','项目标书及岗位文档编写格式'],
-                  ['/mean/fa','桌面运维服务方案模板'],
-                  ['/mean/man','企业岗位手册样本'],
-                  ['/mean/jidu','工作季度报告样例'],
-                  ['notice/support','如何优化桌面维护工作？']
+                  ['/express/mean/format','项目标书及岗位文档编写格式'],
+                  ['/express/mean/fa','桌面运维服务方案模板'],
+                  ['/express/mean/man','企业岗位手册样本'],
+                  ['/express/mean/jidu','工作季度报告样例'],
+                  ['/express/notice/support','如何优化桌面维护工作？']
                 ]
               },
               {
