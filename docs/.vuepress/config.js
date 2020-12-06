@@ -1,5 +1,5 @@
 module.exports = {
-    title: '桌面运维管理指南',
+    title: '从外包桌维到内部业务运营',
     description: '培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR；反欺骗研究，社会工程学入门实践，IT方向速成就业入职',
     base: '/helpdesk-guide/', //项目文件夹设置目录
     head:[
