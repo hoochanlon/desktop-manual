@@ -35,29 +35,32 @@ module.exports = {
       },
         sidebar: [
           // 我的计划是从边缘桌面走向内部业务IT维护
-          {
-            title: '软硬件基础维护',   // 必要的
-            collapsable: false, // 可选的, 默认值是 true,
-            sidebarDepth: 1,    // 可选的, 默认值是 1
-            children: [
-              ['/express/hard-bearkdown/hard','硬件设备调试处理'],
-              ['/express/sysdm-reset/cz.md','系统及主机装载'],
-              ['/express/software-issue/other','各类软件异常解决'],
-              ['/express/star/centre','程序采集与资产管理'],
-
-            ]
-          },            
+         
             {
-                title: 'OA业务综合运营',   // 必要的
+                title: '企业业务平台与终端维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/express/oa-fault/oa','B/S端OA业务初级维护'],
-                  ['/express/net-debug/net','OA办公网络接入层运营'],
-                  ['/express/script/bat.md','Batch批量可并发业务编程'],
-                  ['/express/secure/trojan','信息安全病毒高级防控']
+                  ['/express/zd/cz.md','主机系统重装与硬件组装'],
+                  ['/express/zd/dyj','典型打印机使用安装及调试'],
+                  ['/express/zd/tyy','投影仪布置会场'],
+                  ['/enhance/ie/master','OA/ERP系统IE平台维护'],
                 ]
               },
+              {
+                title: '软硬件基础维护',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+
+                  ['/express/software-issue/other','各类软件异常解决'],
+                  ['/express/star/centre','程序采集与资产管理'],
+                  ['/express/net-debug/net','OA办公网络接入层运营'],
+                  ['/express/script/bat.md','Batch批量可并发业务编程'],
+                  ['/express/secure/trojan','信息安全病毒高级防控'],
+                  ['/express/hard-bearkdown/hard','硬件设备调试处理']
+                ]
+              },   
               {
                 title: '职场·生活社会学',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
