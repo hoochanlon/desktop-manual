@@ -53,25 +53,21 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-
-                  ['/express/software-issue/other','各类软件异常解决'],
-                  ['/express/star/centre','程序采集与资产管理'],
-                  ['/express/net-debug/net','OA办公网络接入层运营'],
-                  ['/express/script/bat.md','Batch批量可并发业务编程'],
-                  ['/express/secure/trojan','信息安全病毒高级防控'],
-                  ['/express/hard-bearkdown/hard','硬件设备调试处理']
+                  ['/enhance/net/bgsdhbs','办公室电话接入部署'],
+                  ['/enhance/net/sghdhyl','由施工后转向溯源电话运作原理'],
+                  ['/enhance/net/netz','网络设备组装发展过程略'],
+                  ['/enhance/net/neta','一篇全文让你彻底理清IP地址、子网掩码、网关'],
+                  ['/express/net/jftx','办公网络接入层运营']
                 ]
               },   
               {
-                title: '域控',   // 必要的
+                title: '主机信息安全',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/star/centre','程序采集与资产管理'],
-                  ['/express/net-debug/net','OA办公网络接入层运营'],
                   ['/express/script/bat.md','Batch批量可并发业务编程'],
-                  ['/express/secure/trojan','信息安全病毒高级防控'],
-                  ['/express/hard-bearkdown/hard','硬件设备调试处理']
+                  ['/express/secure/trojan','信息安全病毒高级防控']
                 ]
               },   
               {
