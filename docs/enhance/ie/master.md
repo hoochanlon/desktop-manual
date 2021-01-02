@@ -64,3 +64,17 @@ IE并不像其他浏览器附带PDF打印自行输出，需下载自带PDF虚拟
 现如今有很多用户其实日常使用的是Chrome，但公司的业务系统实际上是基于IE的，如果是做了网页认证的，实质上是要把主页，准确说是打开浏览器进入到的第一页面设置成可跳转或认证站点。 
 
 ![image-20201208114223106.png](https://i.loli.net/2020/12/08/oydFkZvwnzhV1te.png)
+
+### 附录：地域政府网访问
+
+联通部分企业线路访问不了，但开VPN又是能访问的
+
+![2020-12-14_140352.png](https://i.loli.net/2020/12/14/PfrwAIYsxBNiZKv.png)
+
+家庭宽带可以访问
+
+![2020-12-14_140641.png](https://i.loli.net/2020/12/14/HImeZLaBCR3Exft.png)
+
+手机网络也能访问
+
+![](https://i.loli.net/2020/12/14/7MWPZoqvUhdxaQ3.jpg)

@@ -237,26 +237,6 @@ cscript ospp.vbs /act
 * [cangshui-一键激活Windows和office脚本](https://kms.cangshui.net/)
 * [kms.zym-kms激活服务](http://kms.zym.com/)
 
-## 运行指令小技巧
-
-* 卸载程序 `appwiz.cpl`
-* 打开控制面板 `control`
-* 打开系统属性 `sysdm.cpl`
-* 计算机概况
-    * 图形化 `msinfo32`
-    * 字符化 `systeminfo`
-* 任务管理器 ` taskmgr`
-* windows 版本 `winver`
-* powershell查看硬盘类型及状态 `get-physicaldisk`
-* 开关机以及重启
-    * `shutdown -s -t 0` 立马关机
-    * `shutdown -r` 重启计算机
-    * `shutdown -a` 取消关机任务
-* 打开系统面板 `win` + `pause break` 键
-* 不提示并快速关闭程序 `alt`+`F4`
-
-
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <!-- 
@@ -265,7 +245,7 @@ cscript ospp.vbs /act
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-  
+
     gtag('config', 'UA-157837686-3');
   </script>
 
