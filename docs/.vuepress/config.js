@@ -78,16 +78,6 @@ module.exports = {
                 ]
               },
               {
-                title: '事项处理及认知赋能',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/zjjy/sxcl','事项处理及认知赋能的随想'],
-                  ['/enhance/hrx/bgx','业务故障类排查入门'],
-                  ['/enhance/hrx/xinxi','信息检索与管理初探']
-                ]
-              },
-              {
                 title: '桌维服务规划与外包业务',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -97,20 +87,30 @@ module.exports = {
                   ['/express/mean/man','企业岗位手册样本'],
                   ['/express/mean/format','桌维项目标书及岗位文档编写格式'],
                   ['/express/mean/fa','桌面运维服务方案模板'],
-                  ['/express/talk/3','客户、外包、驻场'],
-                  ['/express/notice/ti-analysis','培训机构分析报告'],
-                  ['/express/notice/law-sug','解构非规范型服务企业']
+                  ['/express/talk/3','客户、外包、驻场']
                 ]
               },
               {
-                title: '职场·生活社会学',   // 必要的
+                title: '我的初入社会经验',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/notice/found','低学历往届生求职历程'],
                   ['/express/notice/interview','人力资源与面试者'],
                   ['/express/notice/zufang-note','社会租房记录'],
-                  ['/express/notice/heikuandai','城中村黑宽带']
+                  ['/express/notice/heikuandai','城中村黑宽带'],
+                  ['/express/notice/ti-analysis','培训机构分析报告'],
+                  ['/express/notice/law-sug','解构非规范型服务企业']
+                ]
+              },
+              {
+                title: '事项处理及认知赋能',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/zjjy/sxcl','事项处理及认知赋能的随想'],
+                  ['/enhance/hrx/bgx','业务故障类排查入门'],
+                  ['/enhance/hrx/xxjs','信息检索导图思绪集']
                 ]
               },
               {
