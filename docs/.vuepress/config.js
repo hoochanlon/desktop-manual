@@ -42,13 +42,31 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/star/cx','电脑硬件思维导图与软件程序采集'],
+                  ['/express/zd/qyzz.md','企业组装主机测试'],
                   ['/express/zd/cz.md','主机系统重装与硬件组装'],
                   ['/express/zd/printer','典型打印机使用安装及调试'],
                   ['/express/zd/tyy','吊顶式投影仪安装与调试'],
-                  ['enhance/dsplus/ddvmt','钉钉视频会议'],
+                  ['enhance/dsplus/ddvmt','办公视频会议'],
+                  ['/express/star/zgbx','耗材自购与其他报销补贴'],
                   ['/enhance/ie/master','OA/ERP系统IE平台维护'],
                   ['/express/star/zic','供应链级的资产管理'],
+                  ['/express/notice/support','如何优化桌面维护工作？'],
                   ['/zjjy/rhjy','入门章节结语']
+                ]
+              },
+              {
+                title: '桌维服务工作内容及稿件',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/express/talk/3','客户、外包、驻场'],
+                  ['/express/notice/law-sug','解构非规范型服务企业'],
+                  ['/express/talk/iandc','漫谈ITIL及CISSP'],
+                  ['/express/mean/jidu','工作季度报告样例'],
+                  ['/express/mean/formatg','岗位文档编写格式'],
+                  ['/express/mean/man','企业岗位手册样本'],
+                  ['/express/mean/formatz','桌维项目标书格式'],
+                  ['/express/mean/fa','桌面运维服务方案模板']
                 ]
               },
               {
@@ -78,19 +96,6 @@ module.exports = {
                 ]
               },
               {
-                title: '桌维服务规划与外包业务',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/express/notice/support','如何优化桌面维护工作？'],
-                  ['/express/mean/jidu','工作季度报告样例'],
-                  ['/express/mean/man','企业岗位手册样本'],
-                  ['/express/mean/format','桌维项目标书及岗位文档编写格式'],
-                  ['/express/mean/fa','桌面运维服务方案模板'],
-                  ['/express/talk/3','客户、外包、驻场']
-                ]
-              },
-              {
                 title: '我的初入社会经验',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -98,9 +103,7 @@ module.exports = {
                   ['/express/notice/found','低学历往届生求职历程'],
                   ['/express/notice/interview','人力资源与面试者'],
                   ['/express/notice/zufang-note','社会租房记录'],
-                  ['/express/notice/heikuandai','城中村黑宽带'],
-                  ['/express/notice/ti-analysis','培训机构分析报告'],
-                  ['/express/notice/law-sug','解构非规范型服务企业']
+                  ['/express/notice/ti-analysis','培训机构分析报告']
                 ]
               },
               {
@@ -109,8 +112,9 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/zjjy/sxcl','事项处理及认知赋能的随想'],
-                  ['/enhance/hrx/bgx','业务故障类排查入门'],
-                  ['/enhance/hrx/xxjs','信息检索导图思绪集']
+                  ['/enhance/hrx/bgx','业务故障类排查初探'],
+                  ['/enhance/hrx/xxjs','信息检索导图'],
+                  ['/enhance/hrx/xxgl','信息管理思绪集']
                 ]
               },
               {

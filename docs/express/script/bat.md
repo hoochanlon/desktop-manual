@@ -21,6 +21,8 @@ BAT批处理学习网站推荐：
 
 使用方式为将以下整段代码拷贝到记事本并将格式改为`.bat`该脚本语言后缀格式执行。以上，希望能够帮助到因执行过于重复任务而苦恼的你😀
 
+我们可以用 Reg To Bat 将注册表转换为批处理程序， 再利用 BatToExeConverter 将批处理脚本换为exe可执行程序。
+
 ## 可信任站点注入
 
 ``` batch
@@ -236,6 +238,9 @@ cscript ospp.vbs /act
 * [Windows系统一句命令激活](https://v0v.bid/)
 * [cangshui-一键激活Windows和office脚本](https://kms.cangshui.net/)
 * [kms.zym-kms激活服务](http://kms.zym.com/)
+
+
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
