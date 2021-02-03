@@ -20,6 +20,12 @@
 
 ![image-20201211095456267.png](https://i.loli.net/2020/12/11/zrCRWf6vqs8Sdtx.png)
 
+## 防邮箱冒用
+
+有些别有用心的人将自己名称更换成别人的邮箱账号冒用他人，其实仔细注意还是能够分别的。我们查看邮箱源码还能够发现额外的端倪，如主机IP地址，确认是否由对方常驻地发出。
+
+![Snipaste_2021-01-30_19-18-26.png](https://i.loli.net/2021/01/30/VM3jPrCbcuBS1qv.png)
+
 ## 杀软残留项清除
 
 word打开出现金山毒霸残留，现象为word启动时出现“Kingsoft Internet security office addin”

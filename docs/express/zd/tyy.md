@@ -34,5 +34,9 @@
 
 ![image-20201209113834656.png](https://i.loli.net/2020/12/09/tqIhONGnXg5VFpC.png)
 
+PPT放映方面，在“设计”-“页面设置”中调选4:3比例
+
+![8790FC8.png](https://i.loli.net/2021/02/03/ukJoWgpY2y15IQl.png)
+
 ***PS： wps演示视频方面缺乏解码器支持，office是ok的，建议下载使用 K-Lite_Code123 视频解码器。***
 

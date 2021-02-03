@@ -55,11 +55,10 @@ module.exports = {
                 ]
               },
               {
-                title: '桌维服务工作内容及稿件',   // 必要的
+                title: '桌维内容及标书稿件',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/express/talk/3','客户、外包、驻场'],
                   ['/express/notice/law-sug','解构非规范型服务企业'],
                   ['/express/talk/iandc','漫谈ITIL及CISSP'],
                   ['/express/mean/jidu','工作季度报告样例'],
@@ -77,11 +76,12 @@ module.exports = {
                   ['/zjjy/dhkp','主机网络运营与信息安全章节说明'],
                   ['/enhance/net/bgsdhbs','办公室电话接入部署'],
                   ['/enhance/net/sghdhyl','由施工后转向溯源电话运作原理'],
-                  ['/enhance/net/netz','网络设备组装发展过程略'],
                   ['/enhance/net/neta','彻底理清IP地址、子网掩码、网关'],
-                  ['/enhance/net/dlsw','代理上网异常排查问题'],
                   ['/enhance/net/dlyfw','多级SOHO路由访问原理'],
-                  ['/express/net/jftx','办公网络接入层运营']
+                  ['/express/net/jftx','办公网络接入层运营'],
+                  ['/enhance/net/dlsw','代理上网异常排查问题'],
+                  ['/express/net/xdzhg','由园区停电账号认证报错引发的思考'],
+                  ['/enhance/net/netz','网络设备组装发展过程略']
                 ]
               },   
               {
@@ -103,7 +103,8 @@ module.exports = {
                   ['/express/notice/found','低学历往届生求职历程'],
                   ['/express/notice/interview','人力资源与面试者'],
                   ['/express/notice/zufang-note','社会租房记录'],
-                  ['/express/notice/ti-analysis','培训机构分析报告']
+                  ['/express/notice/ti-analysis','培训机构分析报告'],
+                  ['/express/notice/the-factory-trap','流水线工厂陷阱']
                 ]
               },
               {
