@@ -47,7 +47,10 @@ AC基本功能：
 * [深信服AC基础认证技术共24页文档](https://wenku.baidu.com/view/bb19531d534de518964bcf84b9d528ea80c72f93.html)
 * [深信服AD(负载均衡器)演示介绍](https://wenku.baidu.com/view/60ad8c999a6648d7c1c708a1284ac850ac02042a.html)
 
-ps：win server配置DNS回环地址，DNS因为部署在AD服务器上，之后再设置转发器配置常见的阿里DNS转发，完成访问外网，操作图例：[创建AD域之后设置DNS服务访问外网](https://www.cnblogs.com/dongcom/p/10440649.html)。深信服的防火墙也是作为dns来使用的，相当于是DNS代理。
+win server配置DNS回环地址，DNS因为部署在AD服务器上，之后再设置转发器配置常见的阿里DNS转发，完成访问外网，操作图例：[创建AD域之后设置DNS服务访问外网](https://www.cnblogs.com/dongcom/p/10440649.html)。深信服的防火墙也是作为dns来使用的，相当于是DNS代理。
 
 ![ ](https://i.loli.net/2021/01/30/nVl7voSfOjZJFmK.jpg)
 
+## [也不明白UPS供电只能持续一段时间](https://www.baidu.com/s?ie=utf-8&wd=ups%E8%83%BD%E4%BE%9B%E7%94%B5%E8%84%91%E8%83%BD%E7%94%A8%E5%A4%9A%E4%B9%85)
+
+UPS供电只能维持一段时间，数小时不等；维持周期时间不可能太长，接到停电通知不在意这点，不可能让服务器突然中断影响业务！

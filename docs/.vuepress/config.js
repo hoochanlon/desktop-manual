@@ -55,25 +55,25 @@ module.exports = {
                 ]
               },
               {
-                title: '桌维内容及标书稿件',   // 必要的
+                title: '桌维文稿及企业与个人的探知',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/express/notice/law-sug','解构非规范型服务企业'],
-                  ['/express/talk/iandc','漫谈ITIL及CISSP'],
                   ['/express/mean/jidu','工作季度报告样例'],
                   ['/express/mean/formatg','岗位文档编写格式'],
                   ['/express/mean/man','企业岗位手册样本'],
                   ['/express/mean/formatz','桌维项目标书格式'],
-                  ['/express/mean/fa','桌面运维服务方案模板']
+                  ['/express/mean/fa','桌面运维服务方案模板'],
+                  ['/express/notice/law-sug','解构非规范型服务企业'],
+                  ['/express/talk/iandc','漫谈ITIL及CISSP']
                 ]
               },
               {
-                title: '电话与主机网络运营',   // 必要的
+                title: '电话与主机网络维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/zjjy/dhkp','主机网络运营与信息安全章节说明'],
+                  ['/zjjy/dhkp','主机网络维护与信息安全章节说明'],
                   ['/enhance/net/bgsdhbs','办公室电话接入部署'],
                   ['/enhance/net/sghdhyl','由施工后转向溯源电话运作原理'],
                   ['/enhance/net/neta','彻底理清IP地址、子网掩码、网关'],
@@ -96,15 +96,25 @@ module.exports = {
                 ]
               },
               {
+                title: '走向信息业务运营',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/zjjy/zrsj','走向信息业务运营说明'],
+                  ['/enhance/xhina/erpmesintro','走入了解ERP与MES的大门'],
+                  ['/enhance/xhina/gbmzn','各部门职能']
+                ]
+              },
+              {
                 title: '我的初入社会经验',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/notice/found','低学历往届生求职历程'],
                   ['/express/notice/interview','人力资源与面试者'],
-                  ['/express/notice/zufang-note','社会租房记录'],
                   ['/express/notice/ti-analysis','培训机构分析报告'],
-                  ['/express/notice/the-factory-trap','流水线工厂陷阱']
+                  ['/express/notice/the-factory-trap','流水线工厂陷阱'],
+                  ['/express/notice/zufang-note','社会租房记录']
                 ]
               },
               {
@@ -115,7 +125,9 @@ module.exports = {
                   ['/zjjy/sxcl','事项处理及认知赋能的随想'],
                   ['/enhance/hrx/bgx','业务故障类排查初探'],
                   ['/enhance/hrx/xxjs','信息检索导图'],
-                  ['/enhance/hrx/xxgl','信息管理思绪集']
+                  ['/enhance/hrx/xxgl','信息管理思绪集'],
+                  ['/enhance/mean/ppt','试用期转正答辩'],
+                  ['/enhance/mean/pf','集团成员能力模型及维度评分系数']
                 ]
               },
               {
