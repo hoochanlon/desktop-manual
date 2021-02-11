@@ -126,6 +126,7 @@ module.exports = {
                   ['/enhance/hrx/bgx','业务故障类排查初探'],
                   ['/enhance/hrx/xxjs','信息检索导图'],
                   ['/enhance/hrx/xxgl','信息管理思绪集'],
+                  ['/enhance/hrx/tabo','台波的使用'],
                   ['/enhance/mean/ppt','试用期转正答辩'],
                   ['/enhance/mean/pf','集团成员能力模型及维度评分系数']
                 ]
