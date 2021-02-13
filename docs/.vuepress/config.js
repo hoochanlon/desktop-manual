@@ -51,21 +51,8 @@ module.exports = {
                   ['/enhance/ie/master','OA/ERP系统IE平台维护'],
                   ['/express/star/zic','供应链级的资产管理'],
                   ['/express/notice/support','如何优化桌面维护工作？'],
+                  ['/express/talk/iandc','漫谈ITIL及CISSP'],
                   ['/zjjy/rhjy','入门章节结语']
-                ]
-              },
-              {
-                title: '桌维文稿及企业与个人的探知',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/express/mean/jidu','工作季度报告样例'],
-                  ['/express/mean/formatg','岗位文档编写格式'],
-                  ['/express/mean/man','企业岗位手册样本'],
-                  ['/express/mean/formatz','桌维项目标书格式'],
-                  ['/express/mean/fa','桌面运维服务方案模板'],
-                  ['/express/notice/law-sug','解构非规范型服务企业'],
-                  ['/express/talk/iandc','漫谈ITIL及CISSP']
                 ]
               },
               {
@@ -96,6 +83,28 @@ module.exports = {
                 ]
               },
               {
+                title: '运维服务文稿',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/express/mean/jidu','工作季度报告样例'],
+                  ['/express/mean/formatg','岗位文档编写格式'],
+                  ['/express/mean/man','企业岗位手册样本'],
+                  ['/express/mean/formatz','桌维项目标书格式'],
+                  ['/express/mean/fa','桌面运维服务方案模板']
+                ]
+              },
+              {
+                title: '项目管理纪要',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/zjjy/xmsm','项目纪要写作感悟'],
+                  ['/enhance/xiangm/xmgs','项目概述与项目经理'],
+                  ['/enhance/xiangm/xmzy','项目组及整体管理']
+                ]
+              },
+              {
                 title: '走向信息业务运营',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -105,6 +114,7 @@ module.exports = {
                   ['/enhance/xhina/gbmzn','各部门职能']
                 ]
               },
+              
               {
                 title: '我的初入社会经验',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -114,7 +124,8 @@ module.exports = {
                   ['/express/notice/interview','人力资源与面试者'],
                   ['/express/notice/ti-analysis','培训机构分析报告'],
                   ['/express/notice/the-factory-trap','流水线工厂陷阱'],
-                  ['/express/notice/zufang-note','社会租房记录']
+                  ['/express/notice/zufang-note','社会租房记录'],
+                  ['/express/notice/law-sug','解构非规范型服务企业']
                 ]
               },
               {

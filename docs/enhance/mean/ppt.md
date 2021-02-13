@@ -1,5 +1,7 @@
 # 试用期答辩
 
+这是我的试用期答辩样例，使用的是office自带默认主题，模板其实大家可以借鉴一下。
+
 ![幻灯片1.PNG](https://i.loli.net/2021/02/06/Pizc6FCSqO1eLrG.png)
 
 ![幻灯片2.PNG](https://i.loli.net/2021/02/06/I3P2Ea4ODiXSpm1.png)
