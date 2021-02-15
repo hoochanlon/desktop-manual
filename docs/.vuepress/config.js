@@ -37,7 +37,7 @@ module.exports = {
           // 我的计划是从边缘桌面走向内部业务IT维护
          
             {
-                title: '入行必修业务终端维护',   // 必要的
+                title: '桌维必修业务终端维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
@@ -52,7 +52,7 @@ module.exports = {
                   ['/express/star/zic','供应链级的资产管理'],
                   ['/express/notice/support','如何优化桌面维护工作？'],
                   ['/express/talk/iandc','漫谈ITIL及CISSP'],
-                  ['/zjjy/rhjy','入门章节结语']
+                  ['/zjjy/rhjy','入行桌维章节结语']
                 ]
               },
               {
@@ -101,7 +101,9 @@ module.exports = {
                 children: [
                   ['/zjjy/xmsm','项目纪要写作感悟'],
                   ['/enhance/xiangm/xmgs','项目概述与项目经理'],
-                  ['/enhance/xiangm/xmzy','项目组及整体管理']
+                  ['/enhance/xiangm/xmzy','项目组及整体管理'],
+                  ['/enhance/xiangm/xmfw','项目范围实施过程'],
+                  ['/enhance/xiangm/xmjd','项目进度预估及管控']
                 ]
               },
               {

@@ -31,6 +31,8 @@ ITSM报表提交，实际上是给领导用的用来优化公司IT服务，提�
 * [百度经验-如何来进行ITSM选型？](https://jingyan.baidu.com/article/f3ad7d0f5b1cb109c3345bd6.html)
 * [什么是ISO20000？ISO20000有什么用？](https://jingyan.baidu.com/article/0964eca272cc888284f5364f.html)
 
+ITIL的产品化 [atlassian-jira](https://www.atlassian.com/zh/software/jira)（推荐看完本书文稿与项目部分再使用）
+
 ## CISSP
 
 简而言之，这个证书较长的行业工作经验3-5年，考试费用过高，千元至万元不等，证书也是三年后过期，不过可以续费，个人的投入成本确实有些过高；而对于企业来说基本上都是比较务实的，最多是招聘时标注有XX认证的优先考虑，依靠这个在入职后加工资是很难的，应聘前倒是可以抬身价。
