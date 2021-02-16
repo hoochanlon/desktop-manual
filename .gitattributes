@@ -1,4 +1,4 @@
 *.js linguist-language=ruby
 *.css linguist-language=ruby
 *.html linguist-language=ruby
-*.shell linguist-language=applescript
+*.sh linguist-language=AppleScript
