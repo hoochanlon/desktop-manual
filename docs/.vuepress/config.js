@@ -103,7 +103,8 @@ module.exports = {
                   ['/enhance/xiangm/xmgs','项目概述与项目经理'],
                   ['/enhance/xiangm/xmzy','项目组及整体管理'],
                   ['/enhance/xiangm/xmfw','项目范围实施过程'],
-                  ['/enhance/xiangm/xmjd','项目进度预估及管控']
+                  ['/enhance/xiangm/xmjd','项目进度预估及管控'],
+                  ['/enhance/xiangm/xmcb','项目成本管理']
                 ]
               },
               {
