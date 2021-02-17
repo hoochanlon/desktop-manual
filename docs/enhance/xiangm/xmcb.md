@@ -27,7 +27,7 @@
 * [青岛市黄岛区市场监督管理局-食品安全抽检监测服务-公开招标公告](http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202102/t20210212_15918894.htm)
   * [第一包采购需求.pdf](http://120.221.95.209:8098/80613546/other/20210209/8d61c4557d4e443f9777acb2d622fc95.pdf)
 
-![image-20210215234506569](C:\Users\hoochanlon\AppData\Roaming\Typora\typora-user-images\image-20210215234506569.png)
+![image-20210215234506569.png](https://i.loli.net/2021/02/16/4k9muRdr8DX35yL.png)
 
 项目业主资金计划主要包括资金来源计划 (资本金、自有资金以及银行贷款) 和资金支付计划。类比下我们的花呗、白条分期，由淘宝京东先垫着，然后再在...😂，这样是不是好理解多了？
 

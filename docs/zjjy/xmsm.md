@@ -8,12 +8,11 @@
 
 知识点死记硬背生搬硬套看起来见效快，一下就记住了，但忽略了实质性思考因素及推理过程的联系，记忆曲线也随时间淡忘了，也就是常说的“早就还给老师了”。我们现在也不是去考厂商认证的死题库，所以重点在于领会要义-表述现象，复盘分析，归纳汇总（总结）。
 
-http://www.tupwk.com.cn/ 搜寻 [项目管理](http://down1.tupwk.com.cn/qhwkdownpage/978-7-302-50718-5.rar)，项目管理软件：Microsoft Project
-
-![image-20210211220355688.png](https://i.loli.net/2021/02/11/jpWzdJexV4sUGNH.png)
-
 我在写作的过程中，都是以和读者共同学习的方式来探讨知识，这样才能与读者进行对等的共同交流。期间读者也可以发现我的可取方法或应规避的瑕疵，去完善雕琢自身璞玉。
 
 顺便一句作为一个补充，近年流行的销售工程师相对偏向于售中售前这么一个定位，职位需要懂项目产品及业务，也需要具备一定相关技术专业基础。
 
 ![image-20210215200454535.png](https://i.loli.net/2021/02/15/WUpFSbYy3jId4tm.png)
+
+附：http://www.tupwk.com.cn/ 搜寻 [项目管理](http://down1.tupwk.com.cn/qhwkdownpage/978-7-302-50718-5.rar)，项目管理软件：Microsoft Project
+
