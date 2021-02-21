@@ -106,7 +106,8 @@ module.exports = {
                   ['/enhance/xiangm/xmjd','项目进度预估及管控'],
                   ['/enhance/xiangm/xmcb','项目成本管理'],
                   ['/enhance/xiangm/xmzl','项目质量管理'],
-                  ['/enhance/xiangm/xmrcgl','项目人力资源管理']
+                  ['/enhance/xiangm/xmrcgl','项目人力资源管理'],
+                  ['/enhance/xiangm/xmgtgl','项目沟通管理']
                 ]
               },
               {
