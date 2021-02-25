@@ -1,5 +1,5 @@
 module.exports = {
-    title: '由驻场桌维到内部业务运营',
+    title: '由驻场桌维走向信息运营',
     description: '培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR；反欺骗研究，社会工程学入门实践，IT方向速成就业入职',
     base: '/helpdesk-guide/', //项目文件夹设置目录
     head:[
@@ -12,13 +12,13 @@ module.exports = {
       {
         'ga': 'UA-157837686-3' // UA-00000000-0
       }],
-      ['copyright', {
-        noSelect: false,
-        authorName:{
-          "zh-CN": "hoochanlon",
-          "en-US": "hoochanlon"
-        }
-      }]
+      // ['copyright', {
+      //   noSelect: false,
+      //   authorName:{
+      //     "zh-CN": "hoochanlon",
+      //     "en-US": "hoochanlon"
+      //   }
+      // }]
     ],
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-guide/',
@@ -83,36 +83,6 @@ module.exports = {
                 ]
               },
               {
-                title: '运维服务文稿',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/express/mean/jidu','工作季度报告样例'],
-                  ['/express/mean/formatg','岗位文档编写格式'],
-                  ['/express/mean/man','企业岗位手册样本'],
-                  ['/express/mean/formatz','桌维项目标书格式'],
-                  ['/express/mean/fa','桌面运维服务方案模板']
-                ]
-              },
-              {
-                title: '项目管理纪要',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/zjjy/xmsm','项目纪要写作感悟'],
-                  ['/enhance/xiangm/xmgs','项目概述与项目经理'],
-                  ['/enhance/xiangm/xmzy','项目组及整体管理'],
-                  ['/enhance/xiangm/xmfw','项目范围实施过程'],
-                  ['/enhance/xiangm/xmjd','项目进度预估及管控'],
-                  ['/enhance/xiangm/xmcb','项目成本管理'],
-                  ['/enhance/xiangm/xmzl','项目质量管理'],
-                  ['/enhance/xiangm/xmrcgl','项目人力资源管理'],
-                  ['/enhance/xiangm/xmgtgl','项目沟通管理'],
-                  ['/enhance/xiangm/xmcggl','项目采购管理'],
-                  ['/enhance/xiangm/xmfx','项目风险管理']
-                ]
-              },
-              {
                 title: '走向信息业务运营',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
@@ -121,8 +91,7 @@ module.exports = {
                   ['/enhance/xhina/erpmesintro','走入了解ERP与MES的大门'],
                   ['/enhance/xhina/gbmzn','各部门职能']
                 ]
-              },
-              
+              },          
               {
                 title: '我的初入社会经验',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -144,10 +113,7 @@ module.exports = {
                   ['/zjjy/sxcl','事项处理及认知赋能的随想'],
                   ['/enhance/hrx/bgx','业务故障类排查初探'],
                   ['/enhance/hrx/xxjs','信息检索导图'],
-                  ['/enhance/hrx/xxgl','信息管理思绪集'],
-                  ['/enhance/hrx/tabo','台波的使用'],
-                  ['/enhance/mean/ppt','试用期转正答辩'],
-                  ['/enhance/mean/pf','集团成员能力模型及维度评分系数']
+                  ['/enhance/hrx/xxgl','信息管理思绪集']
                 ]
               },
               {
