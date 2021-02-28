@@ -1,6 +1,6 @@
 module.exports = {
-    title: '由驻场桌维走向信息运营',
-    description: '培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR；反欺骗研究，社会工程学入门实践，IT方向速成就业入职',
+    title: '《桌维网管实典》',
+    description: '主机与程控终端信息维护及安全运营，IT方向速成就业入职',
     base: '/helpdesk-guide/', //项目文件夹设置目录
     head:[
       ['link', {rel:'icon', href:'favicon.ico'}]
@@ -79,43 +79,10 @@ module.exports = {
                   ['/express/script/bat.md','Batch批量可并发业务编程'],
                   ['/express/secure/trojan','信息病毒防控录'],
                   ['/express/secure/blue','永恒之蓝再处理'],
-                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除']
+                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除'],
+                  ['/express/secure/bgx','业务故障类排查手法']
                 ]
-              },
-              {
-                title: '走向信息业务运营',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/zjjy/zrsj','走向信息业务运营说明'],
-                  ['/enhance/xhina/erpmesintro','走入了解ERP与MES的大门'],
-                  ['/enhance/xhina/gbmzn','各部门职能']
-                ]
-              },          
-              {
-                title: '我的初入社会经验',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/express/notice/found','低学历往届生求职历程'],
-                  ['/express/notice/interview','人力资源与面试者'],
-                  ['/express/notice/ti-analysis','培训机构分析报告'],
-                  ['/express/notice/the-factory-trap','流水线工厂陷阱'],
-                  ['/express/notice/zufang-note','社会租房记录'],
-                  ['/express/notice/law-sug','解构非规范型服务企业']
-                ]
-              },
-              {
-                title: '事项处理及认知赋能',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/zjjy/sxcl','事项处理及认知赋能的随想'],
-                  ['/enhance/hrx/bgx','业务故障类排查初探'],
-                  ['/enhance/hrx/xxjs','信息检索导图'],
-                  ['/enhance/hrx/xxgl','信息管理思绪集']
-                ]
-              },
+              },         
               {
                 title: '致谢',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
