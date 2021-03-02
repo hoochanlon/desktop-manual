@@ -50,4 +50,4 @@
 
 在[2019-2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下就业形势严峻，该书也可作为求职者快速入门IT方向的就业指南，让我们一起共勉！
 
-***[About Me](https://hoochanlon.github.io/about.me)***
+***[About Me](https://hoochanlon.github.io/hoochanlon)***
