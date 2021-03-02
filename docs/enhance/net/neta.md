@@ -271,3 +271,5 @@ Router(config-if)#no shutdown
 ```
 
 ![](https://ftp.bmp.ovh/imgs/2020/12/93c52349da352d6e.gif)
+
+最后对于网络，桌维网管其实了解私有abc类IP，还有NAT可以转为外网IP地址其实已经够用了，划分vlan配置交换路由等其他命令都不需要。二进制可能也就考网工证时用得着，二进制本身就不符合我们算术习惯无需纠结，毕竟还有[网络和IP地址计算器](https://tool.520101.com/wangluo/ipjisuan/)

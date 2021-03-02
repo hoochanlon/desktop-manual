@@ -63,12 +63,12 @@ module.exports = {
                   ['/zjjy/dhkp','主机网络维护与信息安全章节说明'],
                   ['/enhance/net/bgsdhbs','办公室电话接入部署'],
                   ['/enhance/net/sghdhyl','由施工后转向溯源电话运作原理'],
+                  ['/enhance/net/netz','网络设备组装发展过程略'],
+                  ['/express/net/jftx','办公网络接入层运营'],
+                  ['/express/net/xdzhg','由园区停电账号认证报错引发的思考'],
                   ['/enhance/net/neta','彻底理清IP地址、子网掩码、网关'],
                   ['/enhance/net/dlyfw','多级SOHO路由访问原理'],
-                  ['/express/net/jftx','办公网络接入层运营'],
-                  ['/enhance/net/dlsw','代理上网异常排查问题'],
-                  ['/express/net/xdzhg','由园区停电账号认证报错引发的思考'],
-                  ['/enhance/net/netz','网络设备组装发展过程略']
+                  ['/enhance/net/dlsw','代理上网异常排查问题']
                 ]
               },   
               {
