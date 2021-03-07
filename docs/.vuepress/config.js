@@ -56,6 +56,16 @@ module.exports = {
                 ]
               },
               {
+                title: '岗位手册与季度报告',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/express/talk/gan-wei-man-gs','岗位手册编写格式'],
+                  ['/express/talk/gan-wei-man','甲方公司岗位工作手册'],
+                  ['/express/talk/ji-du-bao-gao','驻场IT运维服务季度报告']
+                ]
+              },   
+              {
                 title: '电话与主机网络维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
